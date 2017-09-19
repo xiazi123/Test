@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="es_hbase Maven Webapp">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="java-output-path" value="/es_hbase Maven Webapp/src/main/webapp/src/main/java"/>
+        <property name="context-root" value="/es_hbase"/>
+    </wb-module>
+</project-modules>

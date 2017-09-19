@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="es_hbase Maven Webapp"
+  id="myeclipse.1497323142941"
+  context-root="/es_hbase"
+  j2ee-spec="5.0"
+  archive="es_hbase Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
